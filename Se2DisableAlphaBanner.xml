@@ -4,7 +4,7 @@
     <RepoId>WesternSpace/SE2DisableAlphaBanner</RepoId>
     <FriendlyName>Fps Counter</FriendlyName>
     <Author>WesternSpace</Author>
-    <Tooltip>TODO Short description</Tooltip>
+    <Tooltip>Disables the alpha banner in Space Engineers 2.</Tooltip>
     <SourceDirectories>
         <Directory>SE2DisableAlphaBanner</Directory>
     </SourceDirectories>
