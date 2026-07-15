@@ -3,6 +3,12 @@ using Keen.VRage.Core.EngineComponents;
 using Keen.VRage.Core.Plugins;
 using Keen.Game2.Client.RuntimeSystems.CoreScenes;
 
+#if !DEV_BUILD
+[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyFileVersion("1.0.0")]
+[assembly:AssemblyCopyright("© 2026 WesternSpace")]
+#endif
+
 namespace SE2DisableAlphaBanner
 {
     public class Plugin : IPlugin
