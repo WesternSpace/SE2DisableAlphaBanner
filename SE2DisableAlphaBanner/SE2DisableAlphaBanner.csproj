@@ -5,11 +5,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
-  </ItemGroup>
-
   <ItemGroup>
     <Reference Include="Game2.Client">
       <HintPath>..\..\..\..\SteamLibrary\steamapps\common\SpaceEngineers2\Game2\Game2.Client.dll</HintPath>
