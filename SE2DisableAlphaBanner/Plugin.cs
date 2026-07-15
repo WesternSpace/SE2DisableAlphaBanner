@@ -2,6 +2,7 @@
 using Keen.VRage.Core.EngineComponents;
 using Keen.VRage.Core.Plugins;
 using Keen.Game2.Client.RuntimeSystems.CoreScenes;
+using System.Reflection;
 
 #if !DEV_BUILD
 [assembly: AssemblyVersion("1.0.0")]
